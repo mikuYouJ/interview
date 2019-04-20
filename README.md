@@ -2,7 +2,7 @@
 
 ## Java
 ### 基础
-1. java hashmap，hashtable 区别，list初始容量.hashmap初始容量。扩容机制 int几个字节
+1. [java hashmap，hashtable 区别，list初始容量.hashmap初始容量。扩容机制 int几个字节](doc/java/base/base.md)
 2. session和cookies区别，varchar和char区别  datatime和时间戳区别
 3. ConcurrentHashMap  有了解吗 jdk1.8 有什么不同
 4. 你开发中碰到最多异常是啥。你项目印象最深的问题是哪个，怎么解决的
