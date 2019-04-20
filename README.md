@@ -38,6 +38,8 @@
 3. spring aop和ioc
 4. springbean生命周期
 5. spring事物管理怎么实现的
+6. factorybean和beanfactory的区别
+
 
 ### MyBatis
 1. mybatis 缓存机制 ，为啥要数据持久层
