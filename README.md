@@ -15,6 +15,8 @@
 4. 乐观锁和悲观锁区别
 5. 如何做一个高并发的项目
 6. [synchronize的方法前面有static修饰和没有static修饰有啥区别](doc/java/concurrent/concurrent.md)
+7. synchronized 和ReenTrantLock 区别
+8. aqs队列同步器
 ### JVM
 1. jvm 垃圾回收策略
 2.
