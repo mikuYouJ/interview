@@ -14,7 +14,7 @@
 3. 线程池的submit和excete的区别
 4. 乐观锁和悲观锁区别
 5. 如何做一个高并发的项目
-6. synchronize的方法前面有static修饰和没有static修饰有啥区别
+6. *[synchronize的方法前面有static修饰和没有static修饰有啥区别](doc\java\concurrent\concurrent.md)
 ### JVM
 1. jvm 垃圾回收策略
 2.
