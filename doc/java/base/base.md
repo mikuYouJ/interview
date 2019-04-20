@@ -70,4 +70,5 @@ HashTable | Enumerator | 非fail-fast
 ---|---
 HashMap | key,value都可以为null
 HashTable| key,value都不可以为null
+
 （1）HashTable中key和value中任意一个为null，主线程都会抛出NullPointerException
