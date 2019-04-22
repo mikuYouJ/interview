@@ -72,5 +72,5 @@
 
 ## Linux
 1. [linux 777和775的区别](doc/linux/linux.md)
-2. linux常用命令
+2. [linux常用命令](doc/linux/linux.md)
 3.
