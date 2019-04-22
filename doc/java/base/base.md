@@ -10,7 +10,7 @@
 ## 解答:
 
 
-1. <span id="1">java hashmap，hashtable 区别，list初始容量.hashmap初始容量。扩容机制 int几个字节</span>  
+1. <span id="1">java hashmap，hashtable 区别，list初始容量.hashmap初始容量。扩容机制 int几个字节</span>    
 - 继承和实现  
 <table>
    <tr>
