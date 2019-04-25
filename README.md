@@ -70,9 +70,9 @@
 3.
 
 ## 负载均衡器
-1. [nginx是什么，有什么特点?](doc/nginx_haproxy/nginx_haproxy.md)
-2. [haproxy是什么，有什么特点?](doc/nginx_haproxy/nginx_haproxy.md)
-3. [nginx 与 haproxy的区别是什么](doc/nginx_haproxy/nginx_haproxy.md)
+1. [nginx是什么，有什么特点?](doc/nginxharpoxy/nginxhaproxy.md)
+2. [haproxy是什么，有什么特点?](doc/nginxhaproxy/nginxhaproxy.md)
+3. [nginx 与 haproxy的区别是什么](doc/nginxhaproxy/nginxhaproxy.md)
 
 ## Linux
 1. [linux 777和775的区别](doc/linux/linux.md)
