@@ -18,11 +18,15 @@
 6. [synchronize的方法前面有static修饰和没有static修饰有啥区别](doc/java/concurrent/concurrent.md)
 7. synchronized 和ReenTrantLock 区别
 8. aqs队列同步器
+9. 什么是保护线程和非保护线程？
 ### JVM
 1. jvm 垃圾回收策略
 2.
 ## 设计模式
 1. 手写一个单例
+
+## 算法
+1. 什么是双向冒泡排序法？
 
 ### 常用工具
 ## SVN & Git
@@ -48,6 +52,7 @@
 ### MyBatis
 1. mybatis 缓存机制 ，为啥要数据持久层
 2. mybatis $和#的区别，$一般用在哪？
+3. MyBatis的insert中能用；执行多条语句？
 
 ## 数据库
 ### SQL
@@ -55,7 +60,10 @@
 2. mysql和oracle的区别
 3. group by 有什么用
 4. 如何在1000w数据找出最大1000个数 最快的算法
-5.
+5. 索引的最左原则？
+6. varchar 长度是多少？
+7. 数据库存储很长的中文是什么？
+8. 分组查询？
 
 ### Redis
 1. redis数据如何跟mysql数据库保持一致  
@@ -78,4 +86,3 @@
 ## Linux
 1. [linux 777和775的区别](doc/linux/linux.md)
 2. [linux常用命令](doc/linux/linux.md)
-3.
