@@ -24,6 +24,10 @@
 2.
 ## 设计模式
 1. 手写一个单例
+2. 什么是观察者模式？
+3. 什么是代理模式？
+4. 什么是工厂模式
+
 
 ## 算法
 1. 什么是双向冒泡排序法？
@@ -47,6 +51,15 @@
 4. springbean生命周期
 5. spring事物管理怎么实现的
 6. factorybean和beanfactory的区别
+7. Spring 和SpringMVC有什么区别
+8. Spring的类加载机制？
+9.
+### ActiveMQ
+1. ActiveMQ有几种配置方式
+
+### Dubbo
+1. Dubbo原理
+2.
 
 
 ### MyBatis
