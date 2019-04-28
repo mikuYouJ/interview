@@ -8,6 +8,8 @@
 4. [你开发中碰到最多异常是啥。你项目印象最深的问题是哪个，怎么解决的](doc/java/base/base.md)
 5. [jsp九大内置对象](doc/java/base/base.md)
 6. [接口和抽象类区别](doc/java/base/base.md)
+7. 集合有哪几种？
+8.
 
 ### 并发
 1. 线程池的原理
@@ -31,18 +33,19 @@
 
 ## 算法
 1. 什么是双向冒泡排序法？
+2. 红黑树是什么？
 
 ### 常用工具
 ## SVN & Git
 1. Svn和Git的区别
-2.
+
 
 ## 常用框架
 ### Zookeeper
 1. 如果zookeeper挂了，dubbo客户端还能继续访问？dubbo的缺点
 2. zookeeper 除了注册列表数据 还存什么数据
 3. zookeeper  和eureka 区别
-4.
+
 
 ### Spring & SpingMVC & SpringBoot  
 1. springboot有什么好处
@@ -77,6 +80,8 @@
 6. varchar 长度是多少？
 7. 数据库存储很长的中文是什么？
 8. 分组查询？
+9. SQL优化？
+10.分页查询实现？
 
 ### Redis
 1. redis数据如何跟mysql数据库保持一致  
@@ -89,7 +94,6 @@
 ### MySQL
 1. mysql InnoDB存储引擎和MyISAM存储引擎区别。mysql怎么加锁
 2. mysql优化
-3.
 
 ## 负载均衡器
 1. [nginx是什么，有什么特点?](doc/nginxharpoxy/nginxhaproxy.md)
