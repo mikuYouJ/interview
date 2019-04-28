@@ -8,8 +8,7 @@
 4. [你开发中碰到最多异常是啥。你项目印象最深的问题是哪个，怎么解决的](doc/java/base/base.md)
 5. [jsp九大内置对象](doc/java/base/base.md)
 6. [接口和抽象类区别](doc/java/base/base.md)
-7. [varchar和char区别](doc/java/base/base.md)
-8. [datatime和时间戳区别](doc/java/base/base.md)
+
 ### 并发
 1. 线程池的原理
 2. 设计一种订单超时的方法
